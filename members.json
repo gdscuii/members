@@ -13,5 +13,13 @@
     "jurusan": "Informatika",
     "linkedin_url": "https://www.linkedin.com/in/surya-negara/",
     "github_url": "https://github.com/koalicioous"
+  },
+  {
+    "nama" : "Bintang Rahmatullah",
+    "angkatan": 2021,
+    "jurusan" : "Informatika",
+    "avatar_url" : "https://drive.google.com/file/d/1VFFWfsVV6fES7QhA_tAcvBBlOxIccR3B/view?usp=sharing",
+    "linkedin_url" : "www.linkedin.com/in/bintang-rahmatullah",
+    "github_url" : "https://github.com/just-a-star"
   }
 ]
