@@ -54,6 +54,12 @@
       "jurusan": "Informatika",
       "linkedin_url": "www.linkedin.com/in/fadilaahmads",
       "github_url": "https://github.com/fadilaahmads"
+    },
+    {"nama": "Muhammad Rafli Ihsanuddin",
+      "angkatan" :2021,
+      "jurusan":"Informatika",
+      "linkedin_url":"https://www.linkedin.com/in/rafli-ihsanudddin-b33639224/",
+      "github_url": "https://github.com/RafliIhsanuddin"
     }
   ]
 }
