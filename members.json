@@ -21,5 +21,36 @@
     "avatar_url": "https://res.cloudinary.com/daewfesmw/image/upload/v1635517740/IMG_0302_2_uftrfx.jpg",
     "linkedin_url": "https://www.linkedin.com/in/muhammad-tatma-542120200/",
     "github_url": "https://github.com/MuhammadTatma"
+  },
+  {
+    "nama" : "Bintang Rahmatullah",
+    "angkatan": 2021,
+    "jurusan" : "Informatika",
+    "avatar_url" : "https://drive.google.com/file/d/1VFFWfsVV6fES7QhA_tAcvBBlOxIccR3B/view?usp=sharing",
+    "linkedin_url" : "www.linkedin.com/in/bintang-rahmatullah",
+    "github_url" : "https://github.com/just-a-star"
+  },
+  {
+    "nama": "Azmi Ridho Rinanta",
+    "angkatan": 2021,
+    "jurusan": "Informatika",
+    "avatar_url": "https://res.cloudinary.com/dfc13eszb/image/upload/v1635521803/url_pp_loclqx.jpg"
+    "linkedin_url": "https://www.linkedin.com/in/azmi-ridho-rinanta-aab08a225/",
+    "github_url": "https://github.com/Ridhorinanta"
+  },
+  {
+    "nama": "Muhammad Rizki Siraj",
+    "angkatan": 2021,
+    "jurusan": "Informatika",
+    "avatar_url": "https://drive.google.com/uc?id=1RENq5v8S8cpYTghauL8nKo5nE0ijNtFv",
+    "linkedin_url": "https://www.linkedin.com/in/muhammad-rizki-siraj-1b045b21a/",
+    "github_url": "https://github.com/rizkisiraj"
+  },
+  {
+    "nama": "Fadila Ahmad Sya'bani",
+    "angkatan": 2018,
+    "jurusan": "Informatika",
+    "linkedin_url": "www.linkedin.com/in/fadilaahmads",
+    "github_url": "https://github.com/fadilaahmads"
   }
 ]
