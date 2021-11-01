@@ -85,8 +85,13 @@
       "jurusan": "Informatika",
       "linkedin_url": "https://www.linkedin.com/in/muhammad-novid-a6624b1bb/",
       "github_url": "https://github.com/muhammadnovidr"
-
-
-    }
+    },
+    {"nama": "Abdullah Azzam",
+     "angkatan": 2020,
+      "jurusan": "Informatika",
+      "avatar_url": "https://res.cloudinary.com/dk3qhpacg/image/upload/v1635751523/Abdulzzm.jpg",
+      "linkedin_url": "https://www.linkedin.com/in/abdullah-azzam-272280225/",
+      "github_url": "https://github.com/abdulzzm"
+    },
   ]
 }
