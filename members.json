@@ -55,6 +55,13 @@
       "linkedin_url": "www.linkedin.com/in/fadilaahmads",
       "github_url": "https://github.com/fadilaahmads"
     },
+
+    {"nama": "Muhammad Rafli Ihsanuddin",
+      "angkatan" :2021,
+      "jurusan":"Informatika",
+      "linkedin_url":"https://www.linkedin.com/in/rafli-ihsanudddin-b33639224/",
+      "github_url": "https://github.com/RafliIhsanuddin"
+},
     {
       "nama": "Dhimassultan Mahamrta Dutasmara",
       "angkatan": 2020,
@@ -62,13 +69,14 @@
       "avatar_url": "https://res.cloudinary.com/dgih7ayov/image/upload/v1635517721/ddhimm_avatar.jpg",
       "linkedin_url": "https://www.linkedin.com/in/dhimasssultan-dutasmara-117822201/",
       "github_url": "https://github.com/ddhimm"
-    }
+    },
     {
       "nama": "Muhammad Novid Romadhoni",
       "angkatan": 2020,
       "jurusan": "Informatika",
       "linkedin_url": "https://www.linkedin.com/in/muhammad-novid-a6624b1bb/",
       "github_url": "https://github.com/muhammadnovidr"
+
     }
   ]
 }
