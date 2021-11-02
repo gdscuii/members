@@ -85,8 +85,13 @@
       "jurusan": "Informatika",
       "linkedin_url": "https://www.linkedin.com/in/muhammad-novid-a6624b1bb/",
       "github_url": "https://github.com/muhammadnovidr"
-
-
+    }
+    {
+      "nama": "Thalia Maharani N H",
+      "angkatan": 2019,
+      "jurusan": "Informatika",
+      "linkedin_url": "https://www.linkedin.com/in/thaliamaharani/",
+      "github_url": "https://github.com/thaliamaharani"
     }
   ]
 }
