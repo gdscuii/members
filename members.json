@@ -52,6 +52,7 @@
       "nama": "Fadila Ahmad Sya'bani",
       "angkatan": 2018,
       "jurusan": "Informatika",
+      "avatar_url": "https://res.cloudinary.com/df6wh9nv6/image/upload/v1636092067/almamater_nkh27q.jpg",
       "linkedin_url": "www.linkedin.com/in/fadilaahmads",
       "github_url": "https://github.com/fadilaahmads"
     },
@@ -92,6 +93,6 @@
       "avatar_url": "https://res.cloudinary.com/dk3qhpacg/image/upload/v1635751523/Abdulzzm.jpg",
       "linkedin_url": "https://www.linkedin.com/in/abdullah-azzam-272280225/",
       "github_url": "https://github.com/abdulzzm"
-    },
+    }
   ]
 }
