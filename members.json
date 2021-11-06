@@ -52,7 +52,7 @@
       "nama": "Fadila Ahmad Sya'bani",
       "angkatan": 2018,
       "jurusan": "Informatika",
-      "linkedin_url": "www.linkedin.com/in/fadilaahmads",
+      "linkedin_url": "https://www.linkedin.com/in/fadilaahmads",
       "github_url": "https://github.com/fadilaahmads"
     },
 
@@ -63,14 +63,14 @@
       "avatar_url":"https://drive.google.com/uc?id=1RENq5v8S8cpYTghauL8nKo5nE0ijNtFv",
       "linkedin_url":"https://www.linkedin.com/in/nur-muhammad-546277225/",
       "github_url": "https://github.com/Latifmmhd"
-},
-
-    {"nama": "Muhammad Rafli Ihsanuddin",
+    },
+    {
+      "nama": "Muhammad Rafli Ihsanuddin",
       "angkatan" :2021,
       "jurusan":"Informatika",
       "linkedin_url":"https://www.linkedin.com/in/rafli-ihsanudddin-b33639224/",
       "github_url": "https://github.com/RafliIhsanuddin"
-},
+    },
     {
       "nama": "Dhimassultan Mahamrta Dutasmara",
       "angkatan": 2020,
@@ -85,8 +85,6 @@
       "jurusan": "Informatika",
       "linkedin_url": "https://www.linkedin.com/in/muhammad-novid-a6624b1bb/",
       "github_url": "https://github.com/muhammadnovidr"
-
-
     },
     {
       "nama": "Bima Al Fatih Haryadina Putra",
@@ -94,8 +92,21 @@
       "jurusan": "Informatika",
       "linkedin_url": "https://www.linkedin.com/in/bima-al-fatih-59117018a/",
       "github_url": "https://github.com/bimaalfth"
-
-
+    },
+    {
+      "nama": "Ramadhan Perwira Jati",
+      "angkatan": 2020,
+      "jurusan": "Informatika",
+      "linkedin_url": "https://www.linkedin.com/in/ramadhan-perwira-jati-54b997224/",
+      "github_url": "https://github.com/Ramz09"
+    },
+    {
+      "nama": "Abdullah Azzam",
+      "angkatan": 2020,
+      "jurusan": "Informatika",
+      "avatar_url": "https://res.cloudinary.com/dk3qhpacg/image/upload/v1635751523/Abdulzzm.jpg",
+      "linkedin_url": "https://www.linkedin.com/in/abdullah-azzam-272280225/",
+      "github_url": "https://github.com/abdulzzm"
     }
   ]
 }
