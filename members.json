@@ -5,7 +5,7 @@
       "angkatan": 2021,
       "jurusan": "Informatika",
       "avatar_url": "https://res.cloudinary.com/ddngtppjr/image/upload/v1635657173/Daud_Hidayat_Ramamdhan_ksxzuf.png",
-      "linkedin_url":"https://www.linkedin.com/in/daud-hidayat-ramadhan-98a5251b1/",
+      "linkedin_url": "https://www.linkedin.com/in/daud-hidayat-ramadhan-98a5251b1/",
       "github_url": "https://github.com/DaudHidayatR"
     },
     {
@@ -25,12 +25,12 @@
       "github_url": "https://github.com/MuhammadTatma"
     },
     {
-      "nama" : "Bintang Rahmatullah",
+      "nama": "Bintang Rahmatullah",
       "angkatan": 2021,
-      "jurusan" : "Informatika",
-      "avatar_url" : "https://drive.google.com/uc?id=1VFFWfsVV6fES7QhA_tAcvBBlOxIccR3B",
-      "linkedin_url" : "www.linkedin.com/in/bintang-rahmatullah",
-      "github_url" : "https://github.com/just-a-star"
+      "jurusan": "Informatika",
+      "avatar_url": "https://drive.google.com/uc?id=1VFFWfsVV6fES7QhA_tAcvBBlOxIccR3B",
+      "linkedin_url": "www.linkedin.com/in/bintang-rahmatullah",
+      "github_url": "https://github.com/just-a-star"
     },
     {
       "nama": "Azmi Ridho Rinanta",
@@ -57,18 +57,18 @@
       "github_url": "https://github.com/fadilaahmads"
     },
     {
-      "nama" : "Nur Latif Muhammad",
-      "angkatan":2021,
-      "jurusan":"Informatika",
-      "avatar_url":"https://drive.google.com/uc?id=1RENq5v8S8cpYTghauL8nKo5nE0ijNtFv",
-      "linkedin_url":"https://www.linkedin.com/in/nur-muhammad-546277225/",
+      "nama": "Nur Latif Muhammad",
+      "angkatan": 2021,
+      "jurusan": "Informatika",
+      "avatar_url": "https://drive.google.com/uc?id=1RENq5v8S8cpYTghauL8nKo5nE0ijNtFv",
+      "linkedin_url": "https://www.linkedin.com/in/nur-muhammad-546277225/",
       "github_url": "https://github.com/Latifmmhd"
     },
     {
       "nama": "Muhammad Rafli Ihsanuddin",
-      "angkatan" :2021,
-      "jurusan":"Informatika",
-      "linkedin_url":"https://www.linkedin.com/in/rafli-ihsanudddin-b33639224/",
+      "angkatan": 2021,
+      "jurusan": "Informatika",
+      "linkedin_url": "https://www.linkedin.com/in/rafli-ihsanudddin-b33639224/",
       "github_url": "https://github.com/RafliIhsanuddin"
     },
     {
@@ -122,6 +122,14 @@
       "avatar_url": "https://res.cloudinary.com/dk3qhpacg/image/upload/v1635751523/Abdulzzm.jpg",
       "linkedin_url": "https://www.linkedin.com/in/abdullah-azzam-272280225/",
       "github_url": "https://github.com/abdulzzm"
+    },
+    {
+      "nama": "yuanda Hanif Hisyam",
+      "angkatan": 2020,
+      "jurusan": "Informatika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34027873?v=4",
+      "linkedin_url": "https://www.linkedin.com/in/yuanda-hanif-hisyam-1432701aa/",
+      "github_url": "https://github.com/yuandahanif"
     }
   ]
 }
